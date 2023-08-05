@@ -5,9 +5,9 @@
 <h3 align="center">ETCD-AutoBackup</h3>
 <p align="center">Auto-Backup Service of ETCD snapshot data according to Kubernetes cluster update<br>
   <br>
- <a href="https://github.com/Terraform-Canvas/front-end/issues](https://github.com/JUJY-OIDC/etcd-autobackup-helm-repo">Helm Chart</a>
+ <a href="https://github.com/JUJY-OIDC/etcd-autobackup-helm-repo">Helm Chart</a>
     ·
-    <a href="https://github.com/Terraform-Canvas/front-end/pulls](https://github.com/JUJY-OIDC/etcd-autobackup">Code Repo</a>
+    <a href="https://github.com/JUJY-OIDC/etcd-autobackup">Code Repo</a>
 </p>
 <br>
 
